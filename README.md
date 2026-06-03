@@ -1,4 +1,3 @@
-=================================================
 FRUIT NINJA COMPUTER VISION INTERACTIVE GAME
 =================================================
 
@@ -7,7 +6,6 @@ Language    : Python 3.14+
 Category    : Computer Vision / Human-Computer Interaction (HCI)
 Framework   : MediaPipe Vision Tasks & OpenCV
 
-=================================================
 PROJECT OVERVIEW
 =================================================
 
