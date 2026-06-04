@@ -269,8 +269,8 @@ This project is created for educational purposes as part of the Machine Learning
 
 | Nama | NIM |
 |---|---|
-| Jordan Sebastian | — |
-| Juan Felix | — |
+| Jordan Sebastian | 36240048 |
+| Juan Felix | 36240051 |
 
-> **Course:** [Machine Learning for Intelligence System](https://student.ubm.ac.id/index.php#elearning/kelas=4PDS1/kmk=DSB15)  
+> **Course:** [Machine Learning for Intelligence System]  
 > **Program:** S1 Data Science — Universitas Bunda Mulia
