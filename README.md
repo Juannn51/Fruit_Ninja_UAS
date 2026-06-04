@@ -40,7 +40,6 @@ Teknologi utama yang digunakan:
    - Menggunakan segment-to-point distance untuk akurasi tinggi.
    - Memanfaatkan predicted position untuk menangkap gerakan cepat.
 
-=================================================
   GAME OBJECTIVE
 =================================================
 
@@ -52,7 +51,6 @@ Tujuan pemain adalah:
 - Menjaga nyawa agar tidak habis (3 nyawa awal).
 - Memecahkan high score pribadi.
 
-=================================================
   PROJECT ARCHITECTURE
 =================================================
 
@@ -89,7 +87,6 @@ Hand Landmarker  (Audio Engine)
      v
   Game Loop (OpenCV Window)
 
-=================================================
   DIRECTORY STRUCTURE
 =================================================
 
@@ -117,7 +114,6 @@ Fruit_Ninja_UAS/
 ├── setup_and_run.sh         <-- Auto setup Mac/Linux
 └── README.md
 
-=================================================
   QUICK START — 2 CARA MENJALANKAN
 =================================================
 
@@ -155,7 +151,6 @@ Fruit_Ninja_UAS/
     pip install mediapipe opencv-python pygame numpy
     python game.py
 
-=================================================
   CARA BERMAIN
 =================================================
 
@@ -179,7 +174,6 @@ Aturan:
   - Buah lolos tanpa ditebas  = -1 nyawa
   - Game berakhir saat 3 nyawa habis
 
-=================================================
   SCORING SYSTEM
 =================================================
 
@@ -188,7 +182,6 @@ Aturan:
   Combo reset      : Jika tidak ada tebasan selama 30 frame
   High Score       : Disimpan otomatis di highscore.txt
 
-=================================================
   COMPUTER VISION PIPELINE
 =================================================
 
@@ -207,8 +200,7 @@ Aturan:
      kecepatan serta prediksi posisi berikutnya
   8. check_slice() mendeteksi apakah trail jari
      melewati area objek buah atau bom
-
-=================================================
+     
   PERFORMANCE INDICATOR
 =================================================
 
@@ -220,7 +212,6 @@ Aturan:
   Trail Visual     : Jejak biru-cyan mengikuti gerakan jari
   Arrow Predictor  : Panah arah prediksi saat speed > 200
 
-=================================================
   DEBUGGING
 =================================================
 
@@ -246,7 +237,6 @@ Jika .exe tidak bisa dibuka (Windows Defender):
   - Klik "More info" -> "Run anyway"
   - Ini terjadi karena .exe bukan dari publisher resmi
 
-=================================================
   FUTURE IMPROVEMENTS
 =================================================
 
@@ -281,7 +271,6 @@ Jika .exe tidak bisa dibuka (Windows Defender):
 - Packaging otomatis multi-platform (Windows + Mac)
   menggunakan GitHub Actions CI/CD
 
-=================================================
   SYSTEM REQUIREMENTS
 =================================================
 
@@ -301,7 +290,6 @@ Recommended:
   Kamera   : Webcam 720p 60fps
   OS       : Windows 11
 
-=================================================
   DEPENDENCIES
 =================================================
 
@@ -314,7 +302,6 @@ Install semua sekaligus:
 
   pip install mediapipe opencv-python pygame numpy
 
-=================================================
   REFERENCES
 =================================================
 
@@ -357,7 +344,6 @@ sublicense, and/or sell copies of the Software.
 This project uses MediaPipe by Google (Apache License 2.0)
 and Pygame (LGPL License).
 
-=================================================
   AUTHOR
 =================================================
 
