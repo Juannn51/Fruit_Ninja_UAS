@@ -1,0 +1,15 @@
+# =====================================================
+# Fruit Ninja CV — Hand Gesture Game with MediaPipe
+# Machine Learning for Intelligence System
+# Universitas Bunda Mulia
+# =====================================================
+
+# Computer Vision & Hand Tracking
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+
+# Numerical Processing
+numpy>=1.24.0
+
+# Audio
+pygame>=2.5.0
