@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ### 3. Jalankan game
 
 ```bash
-python main.py
+python game.py
 ```
 
 ---
