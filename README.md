@@ -1,4 +1,3 @@
-=================================================
   FRUIT NINJA CV USING COMPUTER VISION
 =================================================
 
@@ -7,7 +6,6 @@ Language    : Python 3.11
 Category    : Computer Vision / Game
 Framework   : OpenCV, MediaPipe, Pygame
 
-=================================================
   PROJECT OVERVIEW
 =================================================
 
@@ -364,12 +362,11 @@ and Pygame (LGPL License).
 =================================================
 
 Project : Fruit Ninja CV - Computer Vision Game
-Purpose : Tugas Akhir Semester (UAS) - Data Sains
+Purpose : Tugas Akhir Semester (UAS) -   MACHINE LEARNING FOR INTELLIGENCE SYSTEM
 
-Name    : [ISI NAMA KAMU]
-NIM     : [ISI NIM KAMU]
-Class   : [ISI KELAS KAMU]
-Lecturer: [ISI NAMA DOSEN KAMU]
+Name    : Jordan Sebastian, Juan Felix's
+Class   : 4PDS1
+Lecturer: Eko Wahyu Prasetyo. S.T., M.Eng
 Year    : 2026
 
 =================================================
