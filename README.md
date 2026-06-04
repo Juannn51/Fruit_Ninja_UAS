@@ -2,7 +2,7 @@
 
 > **Mata Kuliah:** Machine Learning for Intelligence System  
 > **Universitas:** Universitas Bunda Mulia  
-> **Authors:** Jordan Sebastian · Juan Felix
+> **Authors:** Jordan Sebastian · Juan Felix's
 
 ---
 
