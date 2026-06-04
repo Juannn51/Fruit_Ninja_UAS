@@ -12,6 +12,9 @@
 
 Game ini merupakan demonstrasi aplikasi Machine Learning — khususnya **pose estimation** dan **gesture recognition** — dalam skenario interaktif secara real-time.
 
+untuk install secara lengkap ada di drivve berikut : 
+https://drive.google.com/drive/folders/1aajsBgXx5ZTNBqf61FZ7Q8wv8sqXHbmO?usp=sharing
+untuk mencoba game dapat install pada folder dist
 ---
 
 ## 🎮 Demo
