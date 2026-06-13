@@ -12,7 +12,7 @@
 
 Game ini merupakan demonstrasi aplikasi Machine Learning — khususnya **pose estimation** dan **gesture recognition** — dalam skenario interaktif secara real-time.
 
-**untuk** Untuk mengunduh dan memainkan aplikasi, kunjungi link berikut:
+untuk Untuk mengunduh dan memainkan aplikasi, kunjungi link berikut:
 https://github.com/Juannn51/Fruit_Ninja_UAS/releases/tag/v1.0.0
 
 ## 🎮 Demo
