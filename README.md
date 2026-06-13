@@ -12,10 +12,8 @@
 
 Game ini merupakan demonstrasi aplikasi Machine Learning — khususnya **pose estimation** dan **gesture recognition** — dalam skenario interaktif secara real-time.
 
-> **untuk** install secara lengkap ada di drive berikut : 
-> [drive](https://drive.google.com/drive/folders/1aajsBgXx5ZTNBqf61FZ7Q8wv8sqXHbmO?usp=sharing)
-> **untuk** mencoba game dapat install pada folder dist
----
+> **untuk** Untuk mengunduh dan memainkan aplikasi, kunjungi link berikut:
+> https://github.com/Juannn51/Fruit_Ninja_UAS/releases/tag/v1.0.0
 
 ## 🎮 Demo
 
